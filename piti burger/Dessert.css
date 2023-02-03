@@ -1,0 +1,263 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.dessert-child {
+  position: absolute;
+  top: 1683px;
+  left: 0;
+  width: 1440px;
+  height: 335px;
+}
+.o-nous-trouver6,
+.plan-du-site3 {
+  position: absolute;
+  top: 1761px;
+  left: 504px;
+}
+.o-nous-trouver6 {
+  left: 718px;
+}
+.cgu3,
+.mention-lgales5 {
+  position: absolute;
+  top: 1772px;
+  left: 93px;
+}
+.cgu3 {
+  top: 1830px;
+}
+.contact3,
+.la-carte3 {
+  position: absolute;
+  top: 1827px;
+  left: 504px;
+}
+.contact3 {
+  top: 1761px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.o-nous-trouver7,
+.tiltil-story3 {
+  position: absolute;
+  top: 1863px;
+  left: 506px;
+}
+.o-nous-trouver7 {
+  top: 1810px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 38px;
+}
+.le-resto4 {
+  top: 1899px;
+  left: 506px;
+}
+.actu3,
+.faq3,
+.le-resto4 {
+  position: absolute;
+}
+.faq3 {
+  top: 1851px;
+  left: 1095px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.actu3 {
+  top: 1935px;
+  left: 507px;
+}
+.image-4-icon3,
+.mention-lgales6 {
+  position: absolute;
+  top: 1887px;
+  left: 93px;
+}
+.image-4-icon3 {
+  top: 1832px;
+  left: 718px;
+  width: 245px;
+  height: 133px;
+  object-fit: cover;
+}
+.iconsaxlinearfacebook3,
+.iconsaxlinearinstagram3 {
+  position: absolute;
+  top: 1749px;
+  left: 1340px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.iconsaxlinearfacebook3 {
+  top: 1820px;
+  left: 1343px;
+  width: 40px;
+  height: 46px;
+}
+.dessert-item {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 52px;
+}
+.dessert-child1,
+.dessert-inner {
+  position: absolute;
+  top: 160.66px;
+  width: 16.19px;
+  height: 34.11px;
+}
+.dessert-inner {
+  left: 1393.38px;
+  cursor: pointer;
+}
+.dessert-child1 {
+  left: 26.07px;
+}
+.nos-burgers2 {
+  top: 152px;
+  left: 84px;
+  color: #830f0f;
+  display: inline-block;
+  width: 215px;
+  height: 49px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.boissons3,
+.nos-burgers2,
+.nos-desserts2 {
+  position: absolute;
+  font-size: 40px;
+  font-family: Roboto;
+}
+.boissons3 {
+  top: 154px;
+  left: 1155px;
+  color: #760b0b;
+  cursor: pointer;
+}
+.nos-desserts2 {
+  top: 152px;
+  left: 345px;
+  color: #731111;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.image-10-icon2 {
+  position: absolute;
+  top: 95px;
+  left: 608px;
+  width: 151.41px;
+  height: 97px;
+  object-fit: cover;
+}
+.dessert-child2 {
+  position: absolute;
+  top: 192px;
+  left: 6px;
+  background-color: rgba(8, 8, 30, 0.25);
+  width: 1434px;
+  height: 1485px;
+}
+.le-meilleur-tiramisu,
+.retrouv-vos-meilleurs {
+  position: absolute;
+  top: 270px;
+  left: 853px;
+  font-size: 28.44px;
+  font-family: Roboto;
+  color: #dc433b;
+  display: inline-block;
+  width: 527px;
+  height: 147px;
+}
+.retrouv-vos-meilleurs {
+  top: 287px;
+  left: 253px;
+  font-size: 32px;
+  color: #a21515;
+  width: 301px;
+  height: 214px;
+}
+.flanc-1-icon {
+  position: absolute;
+  top: 1303px;
+  left: 942px;
+  width: 410px;
+  height: 346px;
+  object-fit: cover;
+}
+.le-meilleur-flanc {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.le-meilleur-flanc-container {
+  position: absolute;
+  top: 1009px;
+  left: 972px;
+  font-size: 40px;
+  font-family: Roboto;
+  color: #961a1a;
+  display: inline-block;
+  width: 318px;
+}
+.accompagnements5,
+.retrouv-nos-meilleurs-container {
+  position: absolute;
+  top: 1149px;
+  left: 23px;
+  font-size: 40px;
+  font-family: Roboto;
+  color: #9d2323;
+}
+.accompagnements5 {
+  top: 152px;
+  left: 798px;
+  color: #851313;
+  cursor: pointer;
+}
+.pexels-furkan-ismail-dokuzlar-icon {
+  position: absolute;
+  top: 358px;
+  left: 876px;
+  width: 413px;
+  height: 301px;
+  object-fit: cover;
+}
+.glaces-les-nouveaux-parfums-de-icon {
+  position: absolute;
+  top: 520px;
+  left: 84px;
+  width: 570px;
+  height: 169px;
+  object-fit: cover;
+}
+.dessert-child3 {
+  position: absolute;
+  top: -18px;
+  left: -12px;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 113px;
+}
+.dessert {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2018px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 25px;
+  color: #000;
+  font-family: Inter;
+}

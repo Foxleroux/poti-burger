@@ -1,0 +1,295 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.boissons-child {
+  position: absolute;
+  top: 1683px;
+  left: 0;
+  width: 1440px;
+  height: 335px;
+}
+.o-nous-trouver4,
+.plan-du-site2 {
+  position: absolute;
+  top: 1761px;
+  left: 504px;
+}
+.o-nous-trouver4 {
+  left: 718px;
+}
+.cgu2,
+.mention-lgales3 {
+  position: absolute;
+  top: 1772px;
+  left: 93px;
+}
+.cgu2 {
+  top: 1830px;
+}
+.contact2,
+.la-carte2 {
+  position: absolute;
+  top: 1827px;
+  left: 504px;
+}
+.contact2 {
+  top: 1761px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.o-nous-trouver5,
+.tiltil-story2 {
+  position: absolute;
+  top: 1863px;
+  left: 506px;
+}
+.o-nous-trouver5 {
+  top: 1810px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 38px;
+}
+.le-resto3 {
+  top: 1899px;
+  left: 506px;
+}
+.actu2,
+.faq2,
+.le-resto3 {
+  position: absolute;
+}
+.faq2 {
+  top: 1851px;
+  left: 1095px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.actu2 {
+  top: 1935px;
+  left: 507px;
+}
+.image-4-icon2,
+.mention-lgales4 {
+  position: absolute;
+  top: 1887px;
+  left: 93px;
+}
+.image-4-icon2 {
+  top: 1832px;
+  left: 718px;
+  width: 245px;
+  height: 133px;
+  object-fit: cover;
+}
+.iconsaxlinearfacebook2,
+.iconsaxlinearinstagram2 {
+  position: absolute;
+  top: 1749px;
+  left: 1340px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.iconsaxlinearfacebook2 {
+  top: 1820px;
+  left: 1343px;
+  width: 40px;
+  height: 46px;
+}
+.boissons-item {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 52px;
+}
+.boissons-child1,
+.boissons-inner {
+  position: absolute;
+  top: 160.66px;
+  width: 16.19px;
+  height: 34.11px;
+}
+.boissons-inner {
+  left: 1393.38px;
+  cursor: pointer;
+}
+.boissons-child1 {
+  left: 26.08px;
+}
+.nos-burgers1 {
+  top: 152px;
+  left: 84px;
+  color: #830f0f;
+  display: inline-block;
+  width: 215px;
+  height: 49px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.boissons2,
+.nos-burgers1,
+.nos-desserts1 {
+  position: absolute;
+  font-size: 40px;
+  font-family: Roboto;
+}
+.boissons2 {
+  top: 154px;
+  left: 1155px;
+  color: #760b0b;
+  -webkit-text-stroke: 1px #000;
+}
+.nos-desserts1 {
+  top: 152px;
+  left: 345px;
+  color: #731111;
+  cursor: pointer;
+}
+.image-10-icon1 {
+  position: absolute;
+  top: 95px;
+  left: 608px;
+  width: 151.41px;
+  height: 97px;
+  object-fit: cover;
+}
+.boissons-child2 {
+  position: absolute;
+  top: 553px;
+  left: 43px;
+  background-color: #fff;
+  width: 210px;
+  height: 210px;
+}
+.blank-line {
+  margin: 0;
+  color: #ad2323;
+}
+.coca-250 {
+  position: absolute;
+  top: 296px;
+  left: 393px;
+  font-size: 28.44px;
+  font-family: Roboto;
+  display: inline-block;
+  width: 159px;
+  height: 57px;
+  color: #dc433b;
+}
+.limonade-maison {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.limonade-maison-container {
+  position: absolute;
+  top: 626px;
+  left: 454px;
+  font-size: 32px;
+  font-family: Roboto;
+  color: #a21515;
+  display: inline-block;
+  width: 306px;
+  height: 183px;
+}
+.limonade-1-icon {
+  position: absolute;
+  top: 583px;
+  left: 40px;
+  width: 295px;
+  height: 235px;
+  object-fit: cover;
+}
+.sprite-250-besoins-container {
+  position: absolute;
+  top: 940px;
+  left: 436px;
+  font-size: 40px;
+  font-family: Roboto;
+  display: inline-block;
+  width: 348px;
+  height: 213px;
+  color: #bc8686;
+}
+.sprite-1-icon {
+  position: absolute;
+  top: 879px;
+  left: 14px;
+  width: 351px;
+  height: 360px;
+  object-fit: cover;
+}
+.euros {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  color: #fff;
+}
+.p {
+  margin: 0;
+}
+.eau-150-13-container {
+  position: absolute;
+  top: 1355px;
+  left: 406px;
+  font-size: 40px;
+  font-family: Roboto;
+  color: #8e3737;
+}
+.eau-1-icon {
+  position: absolute;
+  top: 1267px;
+  left: 90px;
+  width: 245px;
+  height: 250px;
+  object-fit: cover;
+}
+.accompagnements3 {
+  position: absolute;
+  top: 152px;
+  left: 798px;
+  font-size: 40px;
+  font-family: Roboto;
+  color: #851313;
+  cursor: pointer;
+}
+.boissons-child3 {
+  position: absolute;
+  top: 204px;
+  left: 0;
+  background-color: rgba(8, 8, 30, 0.25);
+  width: 1440px;
+  height: 1479px;
+}
+.boissons-child4 {
+  position: absolute;
+  top: 0;
+  left: -12px;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 113px;
+}
+.image-12-icon {
+  position: absolute;
+  top: 255px;
+  left: 4px;
+  width: 290px;
+  height: 276px;
+  object-fit: cover;
+}
+.boissons1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2018px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 25px;
+  color: #000;
+  font-family: Inter;
+}

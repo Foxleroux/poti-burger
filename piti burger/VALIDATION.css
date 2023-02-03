@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.validation-child {
+  position: absolute;
+  top: 1683px;
+  left: 0;
+  width: 1440px;
+  height: 335px;
+}
+.o-nous-trouver12,
+.plan-du-site6 {
+  position: absolute;
+  top: 1761px;
+  left: 504px;
+}
+.o-nous-trouver12 {
+  left: 718px;
+}
+.cgu6,
+.mention-lgales9 {
+  position: absolute;
+  top: 1772px;
+  left: 93px;
+}
+.cgu6 {
+  top: 1830px;
+}
+.contact6,
+.la-carte6 {
+  position: absolute;
+  top: 1827px;
+  left: 504px;
+}
+.contact6 {
+  top: 1761px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.tiltil-story6 {
+  position: absolute;
+  top: 1863px;
+  left: 506px;
+}
+.o-nous-trouver13 {
+  position: absolute;
+  top: 1810px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 38px;
+}
+.faq6,
+.le-resto7 {
+  position: absolute;
+  top: 1899px;
+  left: 506px;
+}
+.faq6 {
+  top: 1851px;
+  left: 1095px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.actu6,
+.image-4-icon6 {
+  position: absolute;
+  top: 1935px;
+  left: 507px;
+}
+.image-4-icon6 {
+  top: 1832px;
+  left: 718px;
+  width: 245px;
+  height: 133px;
+  object-fit: cover;
+}
+.iconsaxlinearfacebook6,
+.iconsaxlinearinstagram6 {
+  position: absolute;
+  top: 1749px;
+  left: 1340px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.iconsaxlinearfacebook6 {
+  top: 1820px;
+  left: 1343px;
+  width: 40px;
+  height: 46px;
+}
+.validation-item {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 52px;
+}
+.image-10-icon5,
+.logos-moyens-de-paiement-1-icon {
+  position: absolute;
+  top: 113px;
+  left: 644px;
+  width: 151.41px;
+  height: 97px;
+  object-fit: cover;
+}
+.logos-moyens-de-paiement-1-icon {
+  top: 630px;
+  left: 176px;
+  width: 1056px;
+  height: 560px;
+}
+.validation-inner {
+  position: absolute;
+  top: 240px;
+  left: 148px;
+  background-color: #1e76b7;
+  width: 1057px;
+  height: 292px;
+}
+.paiement-autoris-chez {
+  position: absolute;
+  top: 340px;
+  left: 212px;
+  font-size: 48px;
+  text-align: center;
+  display: inline-block;
+  width: 934px;
+  height: 120px;
+}
+.validation-child1 {
+  position: absolute;
+  top: 1292px;
+  left: 538px;
+  background-color: #1e76b7;
+  width: 570px;
+  height: 178px;
+}
+.valider1 {
+  position: absolute;
+  top: 1376px;
+  left: 615px;
+  font-size: 48px;
+  text-align: center;
+  display: inline-block;
+  width: 378px;
+  height: 94px;
+  cursor: pointer;
+}
+.validation-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 113px;
+}
+.validation-child3 {
+  position: absolute;
+  top: 201px;
+  left: 0;
+  background-color: rgba(8, 8, 30, 0.25);
+  width: 1440px;
+  height: 1479px;
+}
+.validation {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 2018px;
+  text-align: left;
+  font-size: 25px;
+  color: #000;
+  font-family: Inter;
+}

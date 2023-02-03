@@ -1,0 +1,527 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.home-child {
+  position: absolute;
+  top: 85px;
+  left: 3px;
+  width: 1437px;
+  height: 616px;
+  object-fit: cover;
+}
+.la-carte-titi {
+  position: absolute;
+  top: 188px;
+  left: 830px;
+  font-size: 18.41px;
+  color: #fefefe;
+  display: inline-block;
+  width: 722px;
+  height: 26px;
+}
+.picture-icon {
+  position: absolute;
+  top: 1061px;
+  left: 215px;
+  width: 84px;
+  height: 67px;
+  object-fit: cover;
+}
+.le-resto {
+  position: absolute;
+  top: 847px;
+  left: 31px;
+  font-size: 50px;
+  color: #dc9d2f;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+  -webkit-text-stroke: 1px #000;
+}
+.home-inner,
+.home-item {
+  position: absolute;
+  top: 112px;
+  left: 1191px;
+  background-color: #b71e1e;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 154px;
+  height: 40px;
+}
+.home-inner {
+  left: 985px;
+  background-color: #1e3fb7;
+}
+.click-collect,
+.livraison {
+  position: absolute;
+  top: 120px;
+  left: 993px;
+  font-size: 20px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.livraison {
+  left: 1227px;
+}
+.image-3-icon,
+.rectangle-icon {
+  position: absolute;
+  top: 718px;
+  left: 620px;
+  width: 200px;
+  height: 164px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  top: 933px;
+  left: 28px;
+  width: 458px;
+  height: 324px;
+}
+.actus,
+.nos-burger,
+.titi-story {
+  position: absolute;
+  top: 859px;
+  left: 546px;
+  font-size: 50px;
+  color: #dc9d2f;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+  -webkit-text-stroke: 1px #000;
+}
+.actus,
+.nos-burger {
+  top: 1767px;
+  left: 662px;
+}
+.nos-burger {
+  top: 1407px;
+  left: 31px;
+  cursor: pointer;
+}
+.lorem-ipsum-dolor {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.fermentum-ac-craslorem {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 985px;
+  left: 546px;
+  font-size: 29.7px;
+  color: #686666;
+  display: inline-block;
+  width: 752px;
+  height: 191px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.lorem-ipsum-dolor-container1 {
+  top: 1490px;
+  left: 31px;
+  color: #b3b2b2;
+  display: inline-block;
+  width: 423px;
+  height: 183px;
+}
+.lire-la-suite,
+.lorem-ipsum-dolor-container1,
+.une-quipe-authentique {
+  position: absolute;
+  font-size: 29.7px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.une-quipe-authentique {
+  top: 920px;
+  left: 554px;
+  color: rgba(0, 0, 0, 0.56);
+}
+.lire-la-suite {
+  top: 1217px;
+  left: 546px;
+  color: #000;
+}
+.home-child1,
+.home-child2,
+.home-child3 {
+  position: absolute;
+  top: 1396px;
+  left: 586px;
+  width: 207px;
+  height: 198px;
+  object-fit: cover;
+}
+.home-child2,
+.home-child3 {
+  left: 831px;
+  width: 208px;
+}
+.home-child3 {
+  top: 1398px;
+  left: 1072px;
+}
+.home-child4,
+.polygon-icon {
+  position: absolute;
+  top: 1479.7px;
+  left: 525.08px;
+  width: 16.19px;
+  height: 34.11px;
+}
+.home-child4 {
+  top: 1479.66px;
+  left: 1324.38px;
+}
+.burger-n1,
+.burger-n2,
+.burger-n3 {
+  position: absolute;
+  top: 1601px;
+  left: 640px;
+  font-size: 21.24px;
+  color: #000;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.burger-n2,
+.burger-n3 {
+  top: 1606px;
+  left: 884px;
+}
+.burger-n3 {
+  top: 1601px;
+  left: 1124px;
+}
+.home-child5 {
+  position: absolute;
+  top: 1960px;
+  left: 91px;
+  width: 388px;
+  height: 358px;
+  object-fit: cover;
+}
+.notre-dark-titi {
+  position: absolute;
+  top: 1912px;
+  left: 148px;
+  font-size: 30px;
+  color: #000;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.home-child6 {
+  position: absolute;
+  top: 1955px;
+  left: 526px;
+  width: 388px;
+  height: 358px;
+  object-fit: cover;
+}
+.des-cocktails-sur {
+  position: absolute;
+  top: 1905px;
+  left: 546px;
+  font-size: 30px;
+  color: #000;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.home-child7 {
+  position: absolute;
+  top: 1955px;
+  left: 958px;
+  width: 388px;
+  height: 358px;
+  object-fit: cover;
+}
+.une-ambiance-authenique {
+  position: absolute;
+  top: 1905px;
+  left: 977px;
+  font-size: 30px;
+  color: #000;
+}
+.rectangle-div {
+  position: absolute;
+  top: 2382px;
+  left: 637px;
+  background-color: #605c5c;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 186px;
+  height: 56px;
+}
+.en-savoir {
+  position: absolute;
+  top: 2390px;
+  left: 643px;
+  font-size: 33.33px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.home-child8 {
+  position: absolute;
+  top: 2380px;
+  left: 1062px;
+  background-color: #605c5c;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 186px;
+  height: 56px;
+}
+.en-savoir1 {
+  position: absolute;
+  top: 2388px;
+  left: 1068px;
+  font-size: 33.33px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.home-child9 {
+  position: absolute;
+  top: 2381px;
+  left: 192px;
+  background-color: #605c5c;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 186px;
+  height: 56px;
+}
+.en-savoir2 {
+  position: absolute;
+  top: 2389px;
+  left: 198px;
+  font-size: 33.33px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.home-child10 {
+  position: absolute;
+  top: 2605px;
+  left: 98px;
+  background-color: #7163cc;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 1250px;
+  height: 180px;
+}
+.des-offres-et-container {
+  position: absolute;
+  top: 2636px;
+  left: 114px;
+  font-size: 31.58px;
+  color: #000;
+  display: inline-block;
+  width: 1196px;
+}
+.cest-par-ici {
+  position: absolute;
+  top: 2678px;
+  left: 590px;
+  font-size: 34.78px;
+  color: #000;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.home-child11 {
+  position: absolute;
+  top: 2911px;
+  left: 2px;
+  width: 1440px;
+  height: 335px;
+}
+.cgu,
+.la-carte,
+.mention-lgales,
+.o-nous-trouver,
+.plan-du-site {
+  position: absolute;
+  top: 2989px;
+  left: 506px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.cgu,
+.la-carte,
+.mention-lgales,
+.o-nous-trouver {
+  left: 720px;
+}
+.cgu,
+.la-carte,
+.mention-lgales {
+  top: 3000px;
+  left: 95px;
+}
+.cgu,
+.la-carte {
+  top: 3058px;
+}
+.la-carte {
+  top: 3055px;
+  left: 506px;
+}
+.contact {
+  position: absolute;
+  top: 2989px;
+  left: 1095px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.contact,
+.o-nous-trouver1,
+.tiltil-story {
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.tiltil-story {
+  position: absolute;
+  top: 3091px;
+  left: 508px;
+}
+.o-nous-trouver1 {
+  top: 3033px;
+  left: 1095px;
+  display: inline-block;
+  width: 227px;
+  height: 38px;
+}
+.faq,
+.le-resto1,
+.o-nous-trouver1 {
+  position: absolute;
+}
+.le-resto1 {
+  top: 3127px;
+  left: 508px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.faq {
+  top: 3080px;
+  left: 1097px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.actu,
+.image-4-icon {
+  position: absolute;
+  top: 3163px;
+  left: 509px;
+}
+.image-4-icon {
+  top: 3060px;
+  left: 720px;
+  width: 245px;
+  height: 133px;
+  object-fit: cover;
+}
+.iconsaxlinearfacebook,
+.iconsaxlinearinstagram {
+  position: absolute;
+  top: 2977px;
+  left: 1342px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.iconsaxlinearfacebook {
+  top: 3048px;
+  left: 1345px;
+  width: 40px;
+  height: 46px;
+}
+.home-child12 {
+  position: absolute;
+  top: 2663px;
+  left: 846px;
+  background-color: #fff;
+  width: 402px;
+  height: 66px;
+}
+.home-child13 {
+  position: absolute;
+  top: 2675.66px;
+  left: 818.38px;
+  width: 16.19px;
+  height: 34.11px;
+}
+.inscription-newsletter {
+  position: absolute;
+  top: 2609px;
+  left: 947px;
+  font-size: 33.33px;
+  color: #000;
+}
+.image-5-icon {
+  position: absolute;
+  top: 1790px;
+  left: 965px;
+  width: 380px;
+  height: 38px;
+  object-fit: cover;
+}
+.image-6-icon,
+.image-7-icon,
+.image-8-icon {
+  position: absolute;
+  top: 1767px;
+  left: 816px;
+  width: 118px;
+  height: 76px;
+  object-fit: cover;
+}
+.image-7-icon,
+.image-8-icon {
+  top: 1790px;
+  left: 95px;
+  width: 380px;
+  height: 38px;
+}
+.image-8-icon {
+  top: 1761px;
+  left: 525px;
+  width: 118px;
+  height: 76px;
+}
+.home-child14 {
+  position: absolute;
+  top: 2673px;
+  left: 1259px;
+  background-color: #574cd3;
+  width: 78px;
+  height: 56px;
+}
+.email-send-icon,
+.image-9-icon,
+.tiktok-icon {
+  position: absolute;
+  top: 2667px;
+  left: 1255px;
+  width: 64px;
+  height: 73px;
+  object-fit: cover;
+}
+.image-9-icon,
+.tiktok-icon {
+  top: 92px;
+  left: 18px;
+  width: 214px;
+  height: 150px;
+}
+.tiktok-icon {
+  top: 3106px;
+  left: 1337px;
+  width: 60px;
+  height: 77px;
+}
+.home,
+.titi-burger {
+  background-color: #fff;
+}
+.home {
+  position: absolute;
+  top: -85px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1428px;
+  height: 3246px;
+}
+.titi-burger {
+  position: relative;
+  width: 100%;
+  height: 3157px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 25px;
+  color: #fff;
+  font-family: Inter;
+}

@@ -1,0 +1,304 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.paiement-child {
+  position: absolute;
+  top: 1683px;
+  left: 0;
+  width: 1440px;
+  height: 335px;
+}
+.o-nous-trouver10,
+.plan-du-site5 {
+  position: absolute;
+  top: 1761px;
+  left: 504px;
+}
+.o-nous-trouver10 {
+  left: 718px;
+}
+.cgu5,
+.mention-lgales8 {
+  position: absolute;
+  top: 1772px;
+  left: 93px;
+}
+.cgu5 {
+  top: 1830px;
+}
+.contact5,
+.la-carte5 {
+  position: absolute;
+  top: 1827px;
+  left: 504px;
+}
+.contact5 {
+  top: 1761px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.tiltil-story5 {
+  position: absolute;
+  top: 1863px;
+  left: 506px;
+}
+.o-nous-trouver11 {
+  position: absolute;
+  top: 1810px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 38px;
+}
+.faq5,
+.le-resto6 {
+  position: absolute;
+  top: 1899px;
+  left: 506px;
+}
+.faq5 {
+  top: 1851px;
+  left: 1095px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.actu5,
+.image-4-icon5 {
+  position: absolute;
+  top: 1935px;
+  left: 507px;
+}
+.image-4-icon5 {
+  top: 1832px;
+  left: 718px;
+  width: 245px;
+  height: 133px;
+  object-fit: cover;
+}
+.iconsaxlinearfacebook5,
+.iconsaxlinearinstagram5 {
+  position: absolute;
+  top: 1749px;
+  left: 1340px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.iconsaxlinearfacebook5 {
+  top: 1820px;
+  left: 1343px;
+  width: 40px;
+  height: 46px;
+}
+.paiement-item {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 52px;
+}
+.image-10-icon4 {
+  position: absolute;
+  top: 95px;
+  left: 644px;
+  width: 151.41px;
+  height: 97px;
+  object-fit: cover;
+}
+.renseigner-vos-numeros {
+  position: absolute;
+  top: 19.14px;
+  left: calc(50% - 215.01px);
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.numero-de-carte {
+  position: relative;
+}
+.divplaceholder {
+  position: absolute;
+  top: 13.67px;
+  left: 20.51px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 131.26956176757812px 1.3673913478851318px 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input {
+  position: relative;
+  border-radius: 5.47px;
+  background-color: #fefefe;
+  border: 1.4px solid #dadada;
+  box-sizing: border-box;
+  width: 498px;
+  height: 55px;
+  flex-shrink: 0;
+  font-size: 17.78px;
+  color: #1b1a1a;
+}
+.fio-input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.47px;
+}
+.div2,
+.valider {
+  position: absolute;
+  display: flex;
+}
+.div2 {
+  top: 1.18px;
+  left: -92.39px;
+  flex-direction: row;
+  padding: 0 0 20.5108699798584px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27.35px;
+  font-size: 19.14px;
+  color: #000;
+}
+.valider {
+  top: calc(50% - 12.31px);
+  left: calc(50% - 35.19px);
+  font-weight: 800;
+  align-items: center;
+  justify-content: center;
+  width: 70.65px;
+  height: 24.61px;
+}
+.button {
+  position: absolute;
+  top: 260.18px;
+  left: calc(50% - 272.89px);
+  border-radius: 5.47px;
+  background-color: #dadada;
+  width: 546.96px;
+  height: 54.7px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 20.51px;
+  color: #fefefe;
+}
+.mois {
+  position: relative;
+  font-weight: 800;
+}
+.divplaceholder1 {
+  position: absolute;
+  top: 15.04px;
+  left: 20.51px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 68.36956787109375px 2.7347826957702637px 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input1 {
+  position: absolute;
+  width: calc(100% - 360px);
+  top: 104.18px;
+  right: 360.39px;
+  left: -0.39px;
+  border-radius: 5.47px;
+  background-color: #fefefe;
+  border: 1.4px solid #dadada;
+  box-sizing: border-box;
+  height: 55px;
+}
+.cv {
+  position: relative;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 126px;
+  flex-shrink: 0;
+}
+.input2,
+.input3 {
+  width: calc(100% - 360px);
+  border-radius: 5.47px;
+  background-color: #fefefe;
+  border: 1.4px solid #dadada;
+  box-sizing: border-box;
+  height: 55px;
+}
+.input2 {
+  position: absolute;
+  top: 175.18px;
+  right: 360.39px;
+  left: -0.39px;
+}
+.input3 {
+  top: 107.18px;
+  right: 155.39px;
+  left: 204.61px;
+}
+.div1,
+.formform,
+.input3 {
+  position: absolute;
+}
+.formform {
+  top: 79.49px;
+  left: 21.49px;
+  width: 547px;
+  height: 538px;
+  text-align: left;
+  font-size: 16.41px;
+  color: #1b1a1a;
+}
+.div1 {
+  top: 43px;
+  left: -17px;
+  width: 587.98px;
+  height: 731.55px;
+}
+.divfinalize-login1 {
+  position: absolute;
+  top: calc(50% - 752px);
+  left: calc(50% - 359px);
+  background-color: #f9f7f3;
+  width: 629px;
+  height: 443px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 24.61px;
+  font-family: Roboto;
+}
+.paiement-inner {
+  position: absolute;
+  top: 204px;
+  left: -2px;
+  background-color: rgba(8, 8, 30, 0.25);
+  width: 1440px;
+  height: 1479px;
+}
+.paiement-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 95px;
+}
+.paiement {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 2018px;
+  text-align: left;
+  font-size: 25px;
+  color: #000;
+  font-family: Inter;
+}

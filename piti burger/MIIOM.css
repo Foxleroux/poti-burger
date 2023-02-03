@@ -1,0 +1,224 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.miiom-child {
+  position: absolute;
+  top: 1683px;
+  left: 0;
+  width: 1440px;
+  height: 335px;
+}
+.o-nous-trouver14,
+.plan-du-site7 {
+  position: absolute;
+  top: 1761px;
+  left: 504px;
+}
+.o-nous-trouver14 {
+  left: 718px;
+}
+.cgu7,
+.mention-lgales10 {
+  position: absolute;
+  top: 1772px;
+  left: 93px;
+}
+.cgu7 {
+  top: 1830px;
+}
+.contact7,
+.la-carte7 {
+  position: absolute;
+  top: 1827px;
+  left: 504px;
+}
+.contact7 {
+  top: 1761px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.tiltil-story7 {
+  position: absolute;
+  top: 1863px;
+  left: 506px;
+}
+.o-nous-trouver15 {
+  position: absolute;
+  top: 1810px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 38px;
+}
+.faq7,
+.le-resto8 {
+  position: absolute;
+  top: 1899px;
+  left: 506px;
+}
+.faq7 {
+  top: 1851px;
+  left: 1095px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.actu7,
+.image-4-icon7 {
+  position: absolute;
+  top: 1935px;
+  left: 507px;
+}
+.image-4-icon7 {
+  top: 1832px;
+  left: 718px;
+  width: 245px;
+  height: 133px;
+  object-fit: cover;
+}
+.iconsaxlinearfacebook7,
+.iconsaxlinearinstagram7 {
+  position: absolute;
+  top: 1749px;
+  left: 1340px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.iconsaxlinearfacebook7 {
+  top: 1820px;
+  left: 1343px;
+  width: 40px;
+  height: 46px;
+}
+.miiom-item {
+  position: absolute;
+  top: 118px;
+  left: -8px;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 52px;
+}
+.image-10-icon6 {
+  position: absolute;
+  top: 95px;
+  left: 644px;
+  width: 151.41px;
+  height: 97px;
+  object-fit: cover;
+}
+.miiom-child1,
+.miiom-inner {
+  position: absolute;
+  top: 307px;
+  left: 0;
+  background-color: rgba(30, 118, 183, 0.49);
+  width: 1423px;
+  height: 340px;
+}
+.miiom-child1 {
+  top: 1175px;
+  left: 811px;
+  background-color: rgba(30, 118, 183, 0.64);
+  width: 599px;
+  height: 153px;
+}
+.miiom-child2,
+.miiom-child3 {
+  position: absolute;
+  top: 1232px;
+  width: 154px;
+  height: 40px;
+}
+.miiom-child2 {
+  left: 871px;
+  background-color: #03a609;
+  cursor: pointer;
+}
+.miiom-child3 {
+  left: 1208px;
+  background-color: #ac1d1d;
+}
+.payer {
+  position: absolute;
+  top: 1240px;
+  left: 917px;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+}
+.annuler1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.annuler {
+  position: absolute;
+  top: 1240px;
+  left: 1247px;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+}
+.vous-avez-choisis {
+  position: absolute;
+  top: 449px;
+  left: 162px;
+  font-size: 30px;
+  font-family: Roboto;
+  display: inline-block;
+  width: 1074px;
+  height: 104px;
+}
+.recette-puree-pommedeterre-cr-icon1 {
+  position: absolute;
+  top: 733px;
+  left: 86px;
+  width: 468px;
+  height: 296px;
+  object-fit: cover;
+}
+.flanc-1-icon1,
+.poutine-burger-1-icon {
+  position: absolute;
+  top: 1090px;
+  left: 121px;
+  width: 413px;
+  height: 255px;
+  object-fit: cover;
+}
+.poutine-burger-1-icon {
+  top: 1402px;
+  left: 139px;
+  width: 328px;
+  height: 223px;
+}
+.miiom-child4 {
+  position: absolute;
+  top: 383px;
+  left: 0;
+  background-color: rgba(8, 8, 30, 0.25);
+  width: 795px;
+  height: 1303px;
+}
+.miiom-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 113px;
+}
+.miiom {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 2018px;
+  text-align: left;
+  font-size: 25px;
+  color: #000;
+  font-family: Inter;
+}

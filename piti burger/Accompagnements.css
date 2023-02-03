@@ -1,0 +1,271 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.accompagnements-child {
+  position: absolute;
+  top: 1683px;
+  left: 0;
+  width: 1440px;
+  height: 335px;
+}
+.o-nous-trouver2,
+.plan-du-site1 {
+  position: absolute;
+  top: 1761px;
+  left: 504px;
+}
+.o-nous-trouver2 {
+  left: 718px;
+}
+.cgu1,
+.mention-lgales1 {
+  position: absolute;
+  top: 1772px;
+  left: 93px;
+}
+.cgu1 {
+  top: 1830px;
+}
+.contact1,
+.la-carte1 {
+  position: absolute;
+  top: 1827px;
+  left: 504px;
+}
+.contact1 {
+  top: 1761px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.o-nous-trouver3,
+.tiltil-story1 {
+  position: absolute;
+  top: 1863px;
+  left: 506px;
+}
+.o-nous-trouver3 {
+  top: 1810px;
+  left: 1093px;
+  display: inline-block;
+  width: 227px;
+  height: 38px;
+}
+.le-resto2 {
+  top: 1899px;
+  left: 506px;
+}
+.actu1,
+.faq1,
+.le-resto2 {
+  position: absolute;
+}
+.faq1 {
+  top: 1851px;
+  left: 1095px;
+  display: inline-block;
+  width: 227px;
+  height: 37px;
+}
+.actu1 {
+  top: 1935px;
+  left: 507px;
+}
+.image-4-icon1,
+.mention-lgales2 {
+  position: absolute;
+  top: 1887px;
+  left: 93px;
+}
+.image-4-icon1 {
+  top: 1832px;
+  left: 718px;
+  width: 245px;
+  height: 133px;
+  object-fit: cover;
+}
+.iconsaxlinearfacebook1,
+.iconsaxlinearinstagram1 {
+  position: absolute;
+  top: 1749px;
+  left: 1340px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.iconsaxlinearfacebook1 {
+  top: 1820px;
+  left: 1343px;
+  width: 40px;
+  height: 46px;
+}
+.accompagnements-item {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 52px;
+}
+.accompagnements-child1,
+.accompagnements-inner {
+  position: absolute;
+  top: 160.66px;
+  width: 16.19px;
+  height: 34.11px;
+}
+.accompagnements-inner {
+  left: 1393.38px;
+  cursor: pointer;
+}
+.accompagnements-child1 {
+  left: 26.08px;
+}
+.boissons,
+.nos-burgers,
+.nos-desserts {
+  position: absolute;
+  font-size: 40px;
+  font-family: Roboto;
+  cursor: pointer;
+}
+.nos-burgers {
+  top: 152px;
+  left: 84px;
+  color: #830f0f;
+  display: inline-block;
+  width: 215px;
+  height: 49px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.boissons,
+.nos-desserts {
+  top: 158px;
+  left: 1164px;
+  color: #760b0b;
+}
+.nos-desserts {
+  top: 152px;
+  left: 345px;
+  color: #731111;
+}
+.image-10-icon {
+  position: absolute;
+  top: 95px;
+  left: 608px;
+  width: 151.41px;
+  height: 97px;
+  object-fit: cover;
+}
+.accompagnements-child2 {
+  position: absolute;
+  top: 207px;
+  left: 0;
+  background-color: rgba(8, 8, 30, 0.25);
+  width: 1434px;
+  height: 1479px;
+}
+.burger-1 {
+  position: absolute;
+  top: 250px;
+  left: 575px;
+  width: 253px;
+  height: 218px;
+}
+.des-frites-maisons {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.soins-tout-les {
+  margin: 0;
+}
+.des-frites-maisons-container,
+.des-pommes-de,
+.une-salade-nicoise-container {
+  position: absolute;
+  top: 291px;
+  left: 641px;
+  font-size: 28.44px;
+  font-family: Roboto;
+  color: #dc433b;
+  display: inline-block;
+  width: 418px;
+  height: 137px;
+}
+.des-pommes-de,
+.une-salade-nicoise-container {
+  top: 654px;
+  left: 73px;
+  font-size: 32px;
+  color: #a21515;
+  width: 554px;
+  height: 97px;
+}
+.une-salade-nicoise-container {
+  top: 961px;
+  left: 736px;
+  font-size: 40px;
+  color: #941313;
+  width: 731px;
+  height: 160px;
+}
+.accompagnements1,
+.des-pures-maison {
+  position: absolute;
+  top: 1200px;
+  left: 26px;
+  font-size: 40px;
+  font-family: Roboto;
+  color: #a81f1f;
+}
+.accompagnements1 {
+  top: 152px;
+  left: 798px;
+  color: #851313;
+  -webkit-text-stroke: 1px #220808;
+}
+.i34581-salade-nicoise-rapide-1-icon,
+.w1024h1024c1cx2592cy1728-1-icon {
+  position: absolute;
+  top: 1186px;
+  left: 886px;
+  width: 389px;
+  height: 358px;
+  object-fit: cover;
+}
+.w1024h1024c1cx2592cy1728-1-icon {
+  top: 746px;
+  left: 92px;
+  width: 474px;
+  height: 382px;
+}
+.recette-puree-pommedeterre-cr-icon {
+  position: absolute;
+  top: 1285px;
+  left: 59px;
+  width: 516px;
+  height: 365px;
+  object-fit: cover;
+}
+.accompagnements-child3 {
+  position: absolute;
+  top: -4px;
+  left: -18px;
+  background-color: #1e76b7;
+  width: 1440px;
+  height: 113px;
+}
+.accompagnements {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2018px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 25px;
+  color: #000;
+  font-family: Inter;
+}
